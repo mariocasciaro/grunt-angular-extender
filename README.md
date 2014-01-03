@@ -2,8 +2,7 @@
 
 Extend AngularJS applications by injecting module dependencies at build time.
 
-Take at look at https://github.com/mariocasciaro/angular-extender to know what exactly this task is doing 
- and and explanation of the motivations.
+Take at look at https://github.com/mariocasciaro/angular-extender to know what exactly this task is doing.
  
 
 [![NPM](https://nodei.co/npm/grunt-angular-extender.png?downloads=true)](https://nodei.co/npm/grunt-angular-extender/)
