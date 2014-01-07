@@ -41,6 +41,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "angular-extender": "~0.1.0"
+    "angular-extender": "~0.1.1"
   }
 }
